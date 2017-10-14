@@ -25,7 +25,7 @@ SECRET_KEY = 'fo^h2l6v(1sagtx^lj0bth4-4_$yr30&2d$c*w#yqnb+e0$+fm'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'malcdini.pythonanywhere.com']
 
 
 # Application definition
